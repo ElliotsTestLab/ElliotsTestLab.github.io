@@ -33,7 +33,7 @@ We are an enthusiastic, interdisciplinary biophysics team and interface closely
 with Physics of Life Group in the Department of Physics, and the University
 of York’s Biological Physical Sciences Interdisciplinary network (BPSInet) and
 through a range of cross-departmental collaborations between physical and life
-scientists.
+scientists
 
 
 ![yay](/assets/img/words.png)
