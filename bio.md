@@ -3,12 +3,11 @@ layout: page
 title: Bio
 ---
 
-{::nomarkdown} 
-<a href="/assets/img/profLeake.jpg"> 	
-  <img src="/assets/img/profLeake.jpg" class="u-photo float-right" 
-    alt="A hastily cropped photo of Mark Leake, barely smiling into a camera, presumably thinking of playing crumhorn or his increasingly clicky knees."/> 
-</a>
-{:/}
+<p align="center">
+  <img src="/assets/img/profLeake.jpg" />
+</p>
+<center>Professor Mark Leake, FInstP, FRMS, FRSB</center>
+<center>mark.leake@york.ac.uk</center>
 
 **Mark Leake** is a physicist by training, addressing challenging biophysical and
 biochemical questions in a range of biological processes. Following initial
@@ -58,7 +57,7 @@ functional interactions
   phase separation behaviour technologies in fundamental biological processes.
 
 Leake’s work on molecular manipulation, ultrasensitive imaging and bespoke
-instrumentation has led to >150 articles, >15 papers cited >100 times, several
+instrumentation has led to >150 articles, >15 papers cited over 100 times, several
 thousand cumulative citations, with a personal h-index of >40. He is an elected
 Fellow of the Institute of Physics, Royal Microscopical Society, and Royal
 Society of Biology, and an editor for Nature Publishing Group and Royal Society
